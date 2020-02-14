@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quashiepoc.za-li.com/sitemap.xml
